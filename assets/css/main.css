@@ -288,6 +288,30 @@ h6 {
   object-position: left center;
 }
 
+.pricing-item img {
+  width: 120px; /* Ajuste conforme necessário */
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 15px; /* Centraliza e adiciona espaçamento */
+}
+
+.btn-whatsapp {
+  background-color: var(--accent-color);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+.btn-whatsapp:hover {
+  background-color: var(--accent-color);
+}
 
 
 
@@ -365,7 +389,7 @@ h6 {
     min-width: 200px;
   }
 
-  .navmenu .dropdown ul a {
+  .navmenu .dropdown ul a, .text-normal {
     padding: 10px 20px;
     font-size: 15px;
     text-transform: none;
