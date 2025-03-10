@@ -314,6 +314,13 @@ h6 {
 }
 
 
+.text-normal {
+  padding: 10px 20px;
+  font-size: 15px;
+  text-transform: none;
+  color: var(--nav-dropdown-color);
+}
+
 
 /*--------------------------------------------------------------
 # Navigation Menu
