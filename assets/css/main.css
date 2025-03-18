@@ -285,8 +285,10 @@ h6 {
 .carousel-item .item3  {
   width: 100%;
   object-fit: cover; /* Mantém proporção e evita esticamento */
-  object-position: left center;
+  object-position: center center;
 }
+
+
 
 .pricing-item img {
   width: 120px; /* Ajuste conforme necessário */
