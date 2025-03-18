@@ -873,7 +873,7 @@ section,
 @media (max-height: 500px),
 (max-width: 580px) {
   .hero .carousel {
-    min-height: 100vh;
+    min-height: 80vh;
   }
 }
 
