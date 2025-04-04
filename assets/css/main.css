@@ -1688,7 +1688,7 @@ section,
 
 .pricing-item img {
   width: 100%; /* Faz a imagem ocupar toda a largura do card */
-  height: 250px; /* Ajuste a altura conforme necessário */
+  height: 300px; /* Ajuste a altura conforme necessário */
   object-fit: cover; /* Mantém a proporção e preenche o espaço */
   border-radius: 10px; /* Mantém o design arredondado */
 }
